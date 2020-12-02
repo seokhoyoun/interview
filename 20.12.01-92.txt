@@ -20,7 +20,7 @@ ch 와 '\n' 이 리터럴은 모두 메모리(cpu)로 입력된다. ch '' 는 �
 
 같은 영역 내에서 동일이름의 변수 선언 불가하다.
 
-public static voif main(String[] args){
+public static void main(String[] args){
 
 int num1 = 11;
 
